@@ -109,4 +109,3 @@ const SimilarRestaurent = () => {
 }
 
 export default SimilarRestaurent
-
